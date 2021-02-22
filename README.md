@@ -246,3 +246,4 @@ Learn more about [Codefresh](https://codefresh.io/)
 # TODO:
 - update this to work with the latest version of codefresh
 - change the k8s instructions so that we don't expose the db externally from the cluster
+- just testing
